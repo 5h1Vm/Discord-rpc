@@ -2,7 +2,7 @@
   "name": "discord-rpc",
   "version": "1.0.0",
   "description": "Discord RPC",
-  "main": "Wasting Time.js",
+  "main": "index.js",
   "dependencies": {
     "discord-rpc": "git+https://github.com/djs/discord-rpc.git"
   },
